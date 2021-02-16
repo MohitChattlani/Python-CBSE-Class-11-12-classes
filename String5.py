@@ -5,7 +5,8 @@ def main():
 
 	# print(ABC)
 	#Uppercase(3),lowercase(6),alphabet(9),digit(3),symbol(2)
-	string1="abc def 787 ABC &!"
+	#string1="abc def 787 ABC &!"
+	string1="Hello, welcome to Python Prgrammin @2020"
 	ucount=0
 	lcount=0
 	acount=0
