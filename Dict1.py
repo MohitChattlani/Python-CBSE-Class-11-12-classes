@@ -5,11 +5,11 @@ def main():
 	#arr[0]=1
 	#dict1['key']=value
 	roll_marks={}
-
-	for i in range(0,4):
+	N=int(input())
+	for i in range(0,N):
 		rno=eval(input("enter roll no"))
 		marks=eval(input("enter marks"))
-		roll_marks[rno]=marks
+		roll_marks[rno]=marks #{1:90,2:100}
 
 	print(roll_marks)
 
