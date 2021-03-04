@@ -13,4 +13,8 @@ def main():
 
 	print(roll_marks)
 
+	print(roll_marks.keys())
+
+	print(roll_marks.values())
+
 main()
